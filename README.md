@@ -1,5 +1,5 @@
 # Starcoin Web3 StarTrek | 星航计划
-Starcoin Web3 星航计划的目标是构建一个学习社区，一起探索 Web3 宇宙。取名 StarTrek 即代表“星航计划”，同时也是向 [StarTrek](https://en.wikipedia.org/wiki/Star_Trek) 致敬。
+Starcoin Web3 星航计划的目标是构建一个学习社区，一起探索 Web3 宇宙。取名 StarTrek 既代表“星航计划”，同时也是向 [StarTrek](https://en.wikipedia.org/wiki/Star_Trek) 致敬。
 
 这个想法的来源是发现很多开发者都想学习一下区块链和 Web3 ，但经常遇到的问题是这个领域有一定的学习门槛，经常难以坚持，但同时这个领域又大量缺人才。
 
