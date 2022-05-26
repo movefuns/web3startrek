@@ -6,21 +6,21 @@
 
 ### 个人介绍
 
-* Github ID: [jolestar](https://github.com/jolestar)
+* Github ID: [w5pand](https://github.com/w5pand)
 
-* Telegram ID: jolestar
+* Telegram ID: w5pand
 
-* Discord ID: jolestar#4672
+* Discord ID: 0xpanda#4402
 
-* Starcoin 账号地址: 0x8fDfF6d36dFC363055cC3Dde3e7e0013
+* Starcoin 账号地址: 0x54A32377A6F83367C739b58644bb4A65
 
 
-长期从事互联网和云计算开发，2017 年转入区块链以及 Web3 领域。
-常用语言 Java，Go，Rust，Move。对区块链系统研发以及智能合约编程方向感兴趣。
-参与的开源项目：
+从事互联网开发，2018 年转入联盟链领域。
+对公链和web3领域保持长期关注并看好。
 
-* https://github.com/jolestar/go-commons-pool  
-* https://github.com/starcoinorg/starcoin
+常用语言 Solidity,rust在学习中。对区块链系统研发以及智能合约编程方向感兴趣。
+
+感谢组织方。
 
 ### 学习日志
 
