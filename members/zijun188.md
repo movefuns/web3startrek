@@ -12,7 +12,7 @@
 
 * Discord ID: DO_IT6#9080
 
-* Starcoin 账号地址: 0xc337c9bc360D7c3BC054F466582a7D54DCfF1258
+* Starcoin 账号地址: 0xb80b65906FFF97e14c71A4Df1D24C3E9
 
 
 长期从事互联网开发。
