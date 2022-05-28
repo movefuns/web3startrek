@@ -21,7 +21,7 @@
 
 * move https://github.com/move-language/move
 * starcoin  https://github.com/starcoinorg/starcoin
-* vue-core https://github.com/vuejs/core
+* vue-core https://github.com/vuejs/core?issues?q=author%3Adjy0
 
 ### 学习日志
 
@@ -29,14 +29,15 @@
 
 ### 学习成果
 
-commits:
-
-* https://github.com/move-language/move/commits?author=djy0
-* https://github.com/starcoinorg/starcoin/commits?author=djy0
-* https://github.com/starcoinorg/starcoin-cookbook/commits?author=djy0
-
 pr & issue：
 * https://github.com/starcoinorg/starcoin/issues?q=author%3Adjy0
 * https://github.com/move-language/move/issues?q=author%3Adjy0
 * https://github.com/starcoinorg/starcoin-org-v2/issues?q=author%3Adjy0
+* 
+
+commits（和上面内容有重合）:
+* https://github.com/move-language/move/commits?author=djy0
+* https://github.com/starcoinorg/starcoin/commits?author=djy0
+* https://github.com/starcoinorg/starcoin-cookbook/commits?author=djy0
+
 
