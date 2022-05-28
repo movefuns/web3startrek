@@ -21,7 +21,7 @@
 
 * move https://github.com/move-language/move
 * starcoin  https://github.com/starcoinorg/starcoin
-* vue-core https://github.com/vuejs/core?commits?author=djy0
+* vue-core https://github.com/vuejs/core/commits?author=djy0
 
 ### 学习日志
 
