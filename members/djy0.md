@@ -32,6 +32,7 @@
 pr & issue：
 * https://github.com/starcoinorg/starcoin/issues?q=author%3Adjy0
 * https://github.com/move-language/move/issues?q=author%3Adjy0
+* https://github.com/starcoinorg/starcoin-cookbook/issues?q=author%3Adjy0
 * https://github.com/starcoinorg/starcoin-org-v2/issues?q=author%3Adjy0
 * https://github.com/starcoinorg/starmask-extension/issues?q=author%3Adjy0
 
