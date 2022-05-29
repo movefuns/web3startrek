@@ -22,8 +22,10 @@ projects:
 
 ##### 2022.04.25 - 2022.05.26
 
+- walkthrough the evm related codebase
 - exploring the Move language and the hardhat-move plugin
 
 ### 学习成果
 
+- [evm-backend feature clarification](https://github.com/move-language/move/pull/170)
 - [hardhat-move plugin improvement](https://github.com/move-language/move/pull/158)
