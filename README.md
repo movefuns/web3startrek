@@ -58,7 +58,7 @@ Starcoin Web3 星航计划的目标是构建一个学习社区，一起探索 We
 2. 加入 [Starcoin Discord](https://discord.gg/starcoin)
 3. Fork 本仓库，复制 [members/githubid.md](./members/githubid.md) 文件为 `members/$your_github_id.md`，根据自己的信息编辑其中的内容，并提交 Pull Request 给本仓库，报名成功。
 4. 学习过程中可以持续更新该文件的学习日志，以及学习成果。
-5. 如果感觉自己的学习成果可以毕业了，由导师 review 过后合并进仓库，标识 Learn 的阶段结束。StarTrek DAO 给予 $STC Token 奖励（StarTrek DAO 成立之前先由导师代发）。$STC 会直接转到上面文件中填写的地址中。
+5. 如果感觉自己的学习成果可以毕业了，可以评论中 @ 导师，由导师 review 过后合并进仓库，标识 Learn 的阶段结束（导师制尚未构建之前，可以 @jolestar ）。StarTrek DAO 给予 $STC Token 奖励（StarTrek DAO 成立之前先由导师代发）。$STC 会直接转到上面文件中填写的地址中。
 6. 考虑不同的人的业余学习时间有差异，所以整体的学习周期不设置时间限制。如果想中途结束，可以直接关闭 Pull Request。当然，长期（一个月以上）不活跃的 Pull Request 也会被视为中途退出。
 7. 有任何建议或者问题可以提交到 [Discussions · starcoinorg/startrek (github.com)](https://github.com/starcoinorg/startrek/discussions) 讨论。
 
