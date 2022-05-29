@@ -63,4 +63,7 @@ Starcoin Web3 星航计划的目标是构建一个学习社区，一起探索 We
 7. 有任何建议或者问题可以提交到 [Discussions · starcoinorg/startrek (github.com)](https://github.com/starcoinorg/startrek/discussions) 讨论。
 
 
+## StarTrekDao 
 
+* 地址: 0x9d9ab2c2989fdb0ae025f7ddece86088
+> 注：该地址尚未 DAO 化，等新版 DAO 系统上线后会升级为 DAO
