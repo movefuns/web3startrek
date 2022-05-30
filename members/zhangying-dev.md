@@ -18,8 +18,8 @@
 
 参与的开源项目：
 
-- https://github.com/jolestar/go-commons-pool
-- https://github.com/starcoinorg/starcoin
+- https://github.com/WeLightProject/Tai-Shang-DAO-NFT-Manager
+- https://github.com/WeLightProject/tai_shang_world_generator
 
 ### 学习日志
 
