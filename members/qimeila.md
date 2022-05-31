@@ -9,6 +9,8 @@
 
 * Telegram ID: hsc972845673
 
+* Discord ID: qimeila#3524
+
 * Starcoin 账号地址: 0x9c757208d563a03B5e26F13BbCC37Db2
 
 目前在读硕士，土壤学方向
