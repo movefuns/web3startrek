@@ -19,5 +19,6 @@ I'd like to seek some new opportunity in Blockchains and Web3, as I think this a
 
 ### 学习日志
 
+Please move to my notes: [Learn journal of Starcoin Web3 StarTrek Program](https://www.linuxzen.com/notes/notes/20220531104515-starcoin_web3_startrek/).
 
 ### 学习成果
