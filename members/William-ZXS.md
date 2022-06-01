@@ -7,7 +7,7 @@
 
 * Github ID: [William-ZXS](https://github.com/William-ZXS)
 
-* Telegram ID: jolestar
+* Telegram ID: william_zxs
 
 * Discord ID: william-zxs#7573
 
