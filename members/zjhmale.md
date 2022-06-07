@@ -25,7 +25,13 @@ projects:
 - walkthrough the evm related codebase
 - exploring the Move language and the hardhat-move plugin
 
+##### 2022.05.28 - 2022.06.05
+
+- walkthrough move analyzer
+- fixed https://github.com/MystenLabs/sui/issues/2234
+
 ### 学习成果
 
 - [evm-backend feature clarification](https://github.com/move-language/move/pull/170)
 - [hardhat-move plugin improvement](https://github.com/move-language/move/pull/158)
+- [handle-multiroot-workspaces](https://github.com/move-language/move/pull/185)
