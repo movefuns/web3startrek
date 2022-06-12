@@ -9,7 +9,7 @@
 
 I can provide guidance on part of blockchain system development.
 
-我可以提供区块链系统开发指导。
+我可以提供部分区块链系统开发指导。
 
 ## Skill
 
