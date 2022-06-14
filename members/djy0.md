@@ -12,8 +12,7 @@
 
 * Discord ID: JiangYing#8938
 
-* Starcoin 账号地址: 0xc843b6e9f608bcded55bacbaf791be06
-
+* Starcoin 账号地址: 0x2b547120e3C36DEAC1d6c93dca8C4D40
 
 长期从事IT开发，从事过前端开发，现在是后端系统研发。
 常用语言 Java，Python，JavaScript；正在学习的语言Rust，Move；对区块链系统研发以及智能合约语言的设计和应用感兴趣。
