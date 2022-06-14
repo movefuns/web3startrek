@@ -22,3 +22,7 @@ I'd like to seek some new opportunity in Blockchains and Web3, as I think this a
 Please move to my notes: [Learn journal of Starcoin Web3 StarTrek Program](https://www.linuxzen.com/notes/notes/20220531104515-starcoin_web3_startrek/).
 
 ### 学习成果
+
+- Discuss and learn in [#3450](https://github.com/starcoinorg/starcoin/issues/3450).
+
+	+ Submit a PR [#3464](https://github.com/starcoinorg/starcoin/pull/3464).
