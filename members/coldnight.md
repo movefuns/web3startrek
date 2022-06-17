@@ -26,3 +26,7 @@ Please move to my notes: [Learn journal of Starcoin Web3 StarTrek Program](https
 - Discuss and learn in [#3450](https://github.com/starcoinorg/starcoin/issues/3450).
 
 	+ Submit a PR [#3464](https://github.com/starcoinorg/starcoin/pull/3464).
+
+- Discuss and learn in [#3439](https://github.com/starcoinorg/starcoin/issues/3439).
+
+	+ Submit a PR [3471](https://github.com/starcoinorg/starcoin/pull/3471).
