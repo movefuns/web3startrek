@@ -23,10 +23,13 @@ Please move to my notes: [Learn journal of Starcoin Web3 StarTrek Program](https
 
 ### 学习成果
 
-- Discuss and learn in [#3450](https://github.com/starcoinorg/starcoin/issues/3450).
+- Discuss and learn in [\[Feature Request\] Explain the ExecutionFailure transaction status #3450](https://github.com/starcoinorg/starcoin/issues/3450).
 
-	+ Submit a PR [#3464](https://github.com/starcoinorg/starcoin/pull/3464).
+	+ PR [\[rpc\] add RPC API contract.resolve_module_function_index #3464](https://github.com/starcoinorg/starcoin/pull/3464).
+	+ PR [ feat: resolve function name of ExecutionFailure in transaction detail starcoinorg/starcoin-explorer#170](https://github.com/starcoinorg/starcoin-explorer/pull/170)
 
-- Discuss and learn in [#3439](https://github.com/starcoinorg/starcoin/issues/3439).
+- Discuss and learn in [\[Feature Request\] node.peers api return node_name #3439](https://github.com/starcoinorg/starcoin/issues/3439).
 
-	+ Submit a PR [3471](https://github.com/starcoinorg/starcoin/pull/3471).
+	+ PR [\[network\] add version_string field to PeerInfo #3471](https://github.com/starcoinorg/starcoin/pull/3471).
+
+- PR [\[dev\] fix dev sleep command do not update on chain timestamp #3477](https://github.com/starcoinorg/starcoin/pull/3477)
