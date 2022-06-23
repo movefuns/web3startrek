@@ -34,6 +34,8 @@
 * https://github.com/starcoinorg/dapps/pull/25
 * https://github.com/starcoinorg/starcoin-explorer/pull/136
 * https://github.com/starcoinorg/starcoin-cookbook/pull/66
+* https://github.com/starcoinorg/starcoin-explorer/pull/178
+* https://github.com/starcoinorg/starcoin-explorer/pull/180
 
 ### 新项目
 * https://github.com/starcoinorg/starcoin-dapp-demo-vue
