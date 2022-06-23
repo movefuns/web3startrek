@@ -35,12 +35,14 @@
 * https://github.com/starcoinorg/starcoin-explorer/pull/136
 * https://github.com/starcoinorg/starcoin-cookbook/pull/66
 * https://github.com/starcoinorg/starcoin-explorer/pull/178
+* https://github.com/starcoinorg/starcoin-explorer/pull/179
 * https://github.com/starcoinorg/starcoin-explorer/pull/180
 
 ### 新项目
 * https://github.com/starcoinorg/starcoin-dapp-demo-vue
 
 ### 下一步计划
+* 完善当前的区块链浏览器
 * 基于 `Vue2` 和 `element UI` 制作 `Dapps`，项目中写入详细的注释
 * 基于 `Dapp-vue2` 版本，编写对于国内前端开发者更利于入门的新手教程
 * 致力于完善社区文档
