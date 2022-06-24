@@ -24,4 +24,4 @@ TBC
 
 - Contribution to [starcoin-cookbook](https://github.com/starcoinorg/starcoin-cookbook)
     - [#109](https://github.com/starcoinorg/starcoin-cookbook/pull/109)
-    - [#115](https://github.com/starcoinorg/starcoin-cookbook/pull/115)
+    - [#117](https://github.com/starcoinorg/starcoin-cookbook/pull/117)
