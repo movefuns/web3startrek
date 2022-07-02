@@ -24,6 +24,7 @@
 * https://github.com/apache/echarts-handbook
 * https://github.com/vueadmin/festival_chn
 
+
 ### 学习日志
 
 * https://shimo.im/docs/loqeWb2n7GHQevAn
@@ -37,6 +38,7 @@
 * https://github.com/starcoinorg/starcoin-explorer/pull/178
 * https://github.com/starcoinorg/starcoin-explorer/pull/179
 * https://github.com/starcoinorg/starcoin-explorer/pull/180
+* https://github.com/starcoinorg/dapps/pull/29
 
 ### 新项目
 * https://github.com/starcoinorg/starcoin-dapp-demo-vue
