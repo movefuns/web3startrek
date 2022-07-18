@@ -8,7 +8,7 @@
 
 * Telegram ID: XiaoZhu
 
-* Discord ID: XiaoZhu#4227
+* Discord ID: XiaoZhu
 
 * Starcoin 账号地址: 0x13a7D7De25A23Db7C2De311bD0e5Cc3D
 
