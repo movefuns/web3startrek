@@ -71,7 +71,19 @@ It is still in the pioneering and initial stage, and many operating rules are st
     * Learn from the [Starcoin Cookbook](https://github.com/starcoinorg/starcoin-cookbook)
     * Learn how to polish the content of the article so that beginners can learn Starcoin better
 
-## How to get involved
+## Register a wallet
+
+*Wallet* is the key to the Web3 world. *Wallet* can manage your account information and assets in the chain well.
+
+Before participating in the *StarTrek*, you need to have a Starcoin account.
+You can register an account with your *StarMask wallet* or use the *starcoin* command to generate an account and export a private key. **(Take care of your private key!)**
+
+Generally, the former is the most recommended and friendly way to register the Starcoin account.
+Please refer to [StarMask Introduction](https://starcoinorg.github.io/starcoin-cookbook/docs/getting-started/accounts/use-starmask/) for specific steps.
+
+When you register your wallet, you can start the Web3 journey. Next, we will introduce how to participate.
+
+## How to participate
 
 1. Join [Starcoin&Move Contributor Telegram Group](https://t.me/starcoin_contributor)
 2. Join [Starcoin Discord](https://discord.gg/starcoin)

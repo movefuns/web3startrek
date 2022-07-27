@@ -69,6 +69,16 @@ Starcoin Web3 星航计划的目标是构建一个学习社区，一起探索 We
     * 学习 [Starcoin Cookbook](https://github.com/starcoinorg/starcoin-cookbook)
     * 学习如何润色文章内容，让初学者更好地学习 Starcoin
 
+## 注册钱包
+
+*钱包*是进入 Web3 世界大门的钥匙，*钱包*能够很好管理你的账户信息和链上的资产。
+
+在参与*星航计划*前你需要拥有一个 Starcoin 账户，你可以使用 *StarMask 钱包*注册账户，也可以使用 `starcoin` 命令来生成一个账户并导出私钥。**（注意保管好自己的私钥！）**
+
+通常，注册 Starcoin 账户，前者是最值得推荐的，也是最友好的方式。具体操作步骤请参阅[StarMask 入门](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/accounts/use-starmask)。
+
+当你注册好钱包后就可以开启 Web3 之旅了，接下来介绍参与方式。
+
 ## 如何参与
 
 1. 加入 [Starcoin&Move Contributor Telegram Group](https://t.me/starcoin_contributor) 
