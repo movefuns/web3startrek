@@ -14,10 +14,18 @@
 
 前端开发者一枚，常用语言 JavaScript，TypeScript，Go，Nodejs。平时主要做前端方面的工作，业余项目也会自己写一下后端基本基于Go和Nodejs开发（业余后端比较菜），对区块链系统研发以及智能合约编程方向感兴趣。
 
+### 参与的开源项目：(改改小bug)
+
+* https://github.com/starcoinorg/starcoin-explorer
+
+
 ### 学习日志
 
 * 学习了move的基本语法
 * 了解了starcoin项目的整体运作机制
+
+### 学习成果
+* 尝试编写一个简单的dapp，主要基于StarMask（等小有成果了再放链接）。
 
 
 
