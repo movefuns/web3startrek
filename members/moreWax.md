@@ -1,9 +1,15 @@
 
-# 星航计划加入申请表
+# 星航计划加入申请表 | Star Airlines Program Membership Application Form
 
-> 以下是示例内容，请根据自己的情况修改。
+### 个人介绍 | self introduction
 
-### 个人介绍
+  #### Native English Speaker
+  #### Computer Science Student
+  #### 18 Months Experience with Rust / C / C++
+  #### 6 Months Experience with Move
+  #### Searching for a mentor, eager to learn and contribute!
+
+___
 
 * Github ID: [moreWax] https://github.com/moreWax
 * Telegram ID: tomcocash
