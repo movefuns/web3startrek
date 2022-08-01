@@ -7,7 +7,7 @@
 
 * Github ID: [moreWax] https://github.com/moreWax
 * Telegram ID: tomcocash
-
+* Twitter ID: [@buythedip___] https://twitter.com/buythedip___
 * Discord ID: bRuH#7247
 
 * Starcoin 账号地址: 0xC2D50b7909392faA2a7B353675ce8aD9
