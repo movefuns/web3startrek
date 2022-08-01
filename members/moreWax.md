@@ -11,7 +11,3 @@
 * Discord ID: bRuH#7247
 
 * Starcoin 账号地址: 0xC2D50b7909392faA2a7B353675ce8aD9
-
-
-
-
