@@ -33,11 +33,14 @@
 ### 学习成果
 
 * Counter Dapp deployed on the barnard testnet: 
-- Description: 以对Counter资源进行操作为例，综合了带参数合约的资源的CRUD，本地和测试网的合约部署、升级和JSONRPC操作，以及交易状态查询，账户切换事件监听等前端SDK，且与Contract交互的代码部分实现力求简洁，具有一定的示范性。
-- [Repo](https://github.com/dajuguan/starcoin-trek)
-- [Smart Contract Link](https://stcscan.io/barnard/address/0x07Ffe973C72356C25e623E2470172A69/codes)
-- [dApp Link](https://starcoin-trek.vercel.app/)
+    - Description: 以对Counter资源进行操作为例，综合了带参数合约的资源的CRUD，本地和测试网的合约部署、升级和JSONRPC操作，以及交易状态查询，账户切换事件监听等前端SDK，且与Contract交互的代码部分实现力求简洁，具有一定的示范性。
+    - [Repo](https://github.com/dajuguan/starcoin-trek)
+    - [Smart Contract Link](https://stcscan.io/barnard/address/0x07Ffe973C72356C25e623E2470172A69/codes)
+    - [dApp Link](https://starcoin-trek.vercel.app/)
 * Resource CRUD [Smart Contract Library](https://github.com/dajuguan/Web3-dApp-Camp/tree/main/move-dapp/my-library).
+* [Articles]
+    - [Hello Move | Move dApp极速入门(一)](https://mp.weixin.qq.com/s/4ucdWPhOuJagRGi6GiLcyg)
+    - [操作资源 | Move dApp极速入门（三）](https://mp.weixin.qq.com/s/pd7Z7W8egqMGDj8q5k1zyw)
 
 
 
