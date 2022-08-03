@@ -1,0 +1,13 @@
+comment:
+  on-update: recreate
+  header: |
+    Welcome to the Web3 StarTrek :tada:! 
+
+  snippets:
+    - id: any-markdown-file-changed
+      files:
+        - '*.md'
+        - '**/*.md'
+      body: |
+        You can take a look at the [Starcoin Cookbook](https://starcoinorg.github.io/starcoin-cookbook/docs/intro) first, there is a lot of Starcoin knowledge in it.
+        If you are having trouble learning about Starcoin, you can [ask and discuss in the development group](https://t.me/starcoin_contributor).
