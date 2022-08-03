@@ -28,5 +28,7 @@
   - https://github.com/starcoinorg/starcoin-framework-commons/pull/43
   - https://github.com/starcoinorg/starcoin/pull/3570
   - https://github.com/starcoinorg/starcoin/pull/3589
+  - https://github.com/starcoinorg/starcoin/pull/3596
+  - https://github.com/starcoinorg/starcoin/pull/3598
 
   
