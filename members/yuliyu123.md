@@ -25,19 +25,17 @@ https://github.com/starcoinorg/starcoin-cookbook
 ### 学习日志
 
 > 可以写在这里或者给个外部公开链接
-
 note: https://github.com/yuliyu123/starcoin_note
-
 merkle树Rust实现：https://github.com/yuliyu123/merkle_tree
 
 
 ### 学习成果
 
 > 提供学习成果证明，可以是对项目贡献的 Pull Request 链接，文档链接，公开的技术文章视频等教程，以及学习过程中制作的独立的 DApp 项目
-
 https://github.com/starcoinorg/starcoin-cookbook/pull/165
 https://github.com/starcoinorg/starcoin-cookbook/pull/147
 https://github.com/starcoinorg/starcoin-cookbook/pull/139
+https://github.com/starcoinorg/starcoin-framework-commons/pull/48
 https://github.com/starcoinorg/starcoin/pull/3610
 https://github.com/starcoinorg/starcoin/pull/3522
 
