@@ -30,5 +30,7 @@
   - https://github.com/starcoinorg/starcoin/pull/3589
   - https://github.com/starcoinorg/starcoin/pull/3596
   - https://github.com/starcoinorg/starcoin/pull/3598
+  - https://github.com/starcoinorg/starcoin/pull/3622
+  - https://github.com/starcoinorg/starcoin/pull/3615
 
   
