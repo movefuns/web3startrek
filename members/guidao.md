@@ -4,7 +4,7 @@
 
 ### 个人介绍
 
-* Github ID: [jolestar](https://github.com/guidao)
+* Github ID: [guidao](https://github.com/guidao)
 
 * Telegram ID: daren
 
