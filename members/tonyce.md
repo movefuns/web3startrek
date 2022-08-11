@@ -23,7 +23,14 @@
 
 ### 学习日志
 
-> TODO
+1. React init project
+2. js call wallet
+3. js call contract
+4. init move contract project
+5. Counter move contract demo
+6. deploy contract to barnard test network
+7. js call counter contact
+8. done
 
 ### 学习成果
 
