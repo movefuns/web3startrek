@@ -30,7 +30,10 @@
 5. Counter move contract demo
 6. deploy contract to barnard test network
 7. js call counter contact
-8. done
+8. update counter contract
+9. contract store string for user
+10. ...
+11. done
 
 ### 学习成果
 
