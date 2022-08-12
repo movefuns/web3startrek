@@ -32,8 +32,9 @@
 7. js call counter contact
 8. update counter contract
 9. contract store string for user
-10. ...
-11. done
+10. contract store structure for user
+11. 。。。
+12. done
 
 ### 学习成果
 
