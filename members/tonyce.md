@@ -33,8 +33,12 @@
 8. update counter contract
 9. contract store string for user
 10. contract store structure for user
-11. 。。。
-12. done
+11. contract remove structure for user
+12. Game start
+13. BCS::to_bytes()
+14. AccountAddress decode
+15. sha3-256 compare
+16. done
 
 ### 学习成果
 
