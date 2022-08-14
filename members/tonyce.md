@@ -42,7 +42,10 @@
 
 ### 学习成果
 
-> https://github.com/Tonyce/starcoin-stepby
+> https://github.com/Tonyce/starcoin-react-stepby
+> https://github.com/starcoinorg/starcoin.js/pull/60
+> https://github.com/starcoinorg/dapps/pull/51
+> https://github.com/starcoinorg/starcoin-cookbook/pull/176
 
 
 
