@@ -12,7 +12,7 @@
 
 * Starcoin 账号地址: 0xB489856495F5E89c4271d32A02EB9bB8
 
-后端开发，常用开发语言Python&Golang,Rust新手。
+后端开发，常用开发语言Python&Golang，Rust新手，对区块链有浓厚的兴趣，想深入学习。
 
 ### 学习日志
 
