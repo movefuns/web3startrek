@@ -38,14 +38,15 @@
 13. BCS::to_bytes()
 14. AccountAddress decode
 15. sha3-256 compare
-16. done
+16. unit test
+17. done
 
 ### 学习成果
 
 > https://github.com/Tonyce/starcoin-react-stepby
-> https://github.com/starcoinorg/starcoin.js/pull/60
 > https://github.com/starcoinorg/dapps/pull/51
 > https://github.com/starcoinorg/starcoin-cookbook/pull/176
+> https://github.com/starcoinorg/starcoin-cookbook/pull/178
 
 
 
