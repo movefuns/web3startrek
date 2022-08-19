@@ -21,8 +21,8 @@
 
 ### 学习日志
 
-* 学习了move的基本语法
-* 了解了starcoin项目的整体运作机制
+* [starcoin安装及节点配置](https://github.com/xiaozhu-code/studyLog/blob/main/starcoin%E5%AE%89%E8%A3%85%E5%8F%8A%E8%8A%82%E7%82%B9%E9%85%8D%E7%BD%AE.md)
+* [控制台交互发起第一笔交易](https://github.com/xiaozhu-code/studyLog/blob/main/%E6%8E%A7%E5%88%B6%E5%8F%B0%E4%BA%A4%E4%BA%92%E5%8F%8A%E7%AC%AC%E4%B8%80%E7%AC%94%E4%BA%A4%E6%98%93.md)
 
 ### 学习成果
 * 尝试编写一个简单的dapp，主要基于StarMask（等小有成果了再放链接）。
