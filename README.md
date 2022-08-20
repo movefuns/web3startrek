@@ -106,7 +106,7 @@ You will receive a *graduation award*, and the mentor will also receive a *mento
 ### Ways to Earn Credits
 
 1. The technology needs to involve Move + Web or Move + Rust.
-2. PR contributors to community projects (starcoinorg or move-language), 1 PR + 1 point. If there is a complex PR, it can be evaluated by the mentor (mentor) for extra points.
+2. PR contributors to community projects ([starcoinorg](https://github.com/starcoinorg) or [move-language](https://github.com/move-language/move)), 1 PR + 1 point. If there is a complex PR, it can be evaluated by the mentor (mentor) for extra points.
 3. External Move-related tutorial articles + 1 point, I hope that Move will be understood by more people, so I encourage the dissemination of documentation tutorials through other channels.
 4. Standalone Move module + 1 point. I hope that after learning Move, you can make new modules, not just learn the examples in the tutorial.
 
