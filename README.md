@@ -95,6 +95,26 @@ When you register your wallet, you can start the Web3 journey. Next, we will int
 8. Considering that there are differences in the spare time of different people, there is no time limit for the overall learning cycle. If you want to end it halfway, you can close the Pull Request directly. Of course, a Pull Request that has been inactive for a long time (more than a month) will also be considered a dropout.
 9. Any suggestions or questions can be submitted to [Discussions · starcoinorg/startrek (github.com)](https://github.com/starcoinorg/startrek/discussions) for discussion.
 
+## Graduation Criteria
+
+Graduation standards are met when students earn 3 credits.
+You can `@mentor` to review the graduation status, and at least two mentors need to approve the PR.
+When the PR is merged, it means that you have successfully graduated.
+At this time, you need to `@a mentor who helped you the most in your learning process`.
+You will receive a *graduation award*, and the mentor will also receive a *mentoring award*.
+
+### Ways to Earn Credits
+
+1. The technology needs to involve Move + Web or Move + Rust.
+2. PR contributors to community projects (starcoinorg or move-language), 1 PR + 1 point. If there is a complex PR, it can be evaluated by the mentor (mentor) for extra points.
+3. External Move-related tutorial articles + 1 point, I hope that Move will be understood by more people, so I encourage the dissemination of documentation tutorials through other channels.
+4. Standalone Move module + 1 point. I hope that after learning Move, you can make new modules, not just learn the examples in the tutorial.
+
+> Detailed address for the introductory graduation criteria:
+> [https://github.com/starcoinorg/web3startrek/pull/59](https://github.com/starcoinorg/web3startrek/pull/59)
+> [https://github.com/starcoinorg/web3startrek/pull/61](https://github.com/starcoinorg/web3startrek/pull/61)
+> [https://github.com/starcoinorg/web3startrek/pull/54](https://github.com/starcoinorg/web3startrek/pull/54)
+
 ## StarTrekDao
 
 * Address: 0x9d9ab2c2989fdb0ae025f7ddece86088

@@ -93,10 +93,10 @@ Starcoin Web3 星航计划的目标是构建一个学习社区，一起探索 We
 
 ## 毕业标准
 
-当学员获取 3 个学分后，达到毕业标准。可以**@导师**来审核毕业情况，至少需要**两位**导师批准 PR。
-当 PR 合并后说明你顺利毕业了，此时你需要**@一位在你学习过程中对你帮助最大的导师**。你会获得*毕业奖励*，这位导师也将获得*指导奖励*。
+当学员获取 3 个学分后，达到毕业标准。可以`@导师`来审核毕业情况，至少需要**两位**导师批准 PR。
+当 PR 合并后说明你顺利毕业了，此时你需要`@一位在你学习过程中对你帮助最大的导师`。你会获得*毕业奖励*，这位导师也将获得*指导奖励*。
 
-### 获取积分的方式
+### 获取学分的方式
 
 1. 技术需要涉及 Move + Web 或者 Move + Rust。
 2. 对社区项目（[starcoinorg](https://github.com/starcoinorg) 或 [move-language](https://github.com/move-language/move)）有 PR 贡献者，1 个 PR + 1 分。如果有复杂的 PR 可以由导师（mentor）评估加多分。
@@ -104,10 +104,9 @@ Starcoin Web3 星航计划的目标是构建一个学习社区，一起探索 We
 4. 独立的 Move module + 1 分。希望学习 Move 后可以做出新的模块，而不仅仅是学会教程中的例子。
 
 > 导论毕业标准的详细地址：
-
-> [https://github.com/starcoinorg/web3startrek/pull/59](https://github.com/starcoinorg/web3startrek/pull/59)
-> [https://github.com/starcoinorg/web3startrek/pull/61](https://github.com/starcoinorg/web3startrek/pull/61)
-> [https://github.com/starcoinorg/web3startrek/pull/54](https://github.com/starcoinorg/web3startrek/pull/54)
+> - [https://github.com/starcoinorg/web3startrek/pull/59](https://github.com/starcoinorg/web3startrek/pull/59)
+> - [https://github.com/starcoinorg/web3startrek/pull/61](https://github.com/starcoinorg/web3startrek/pull/61)
+> - [https://github.com/starcoinorg/web3startrek/pull/54](https://github.com/starcoinorg/web3startrek/pull/54)
 
 ## StarTrekDao
 
