@@ -1,6 +1,6 @@
 # Starcoin Web3 StarTrek | 星航计划
 
-[![README](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-brightgreen)](https://github.com/starcoinorg/startrek/blob/main/README_zh.md)
+[中文 README](https://github.com/starcoinorg/startrek/blob/main/README_zh.md)
 
 ![starterk_web3](https://raw.githubusercontent.com/starcoinorg/startrek/main/cover/starterk_web3.png)
 
