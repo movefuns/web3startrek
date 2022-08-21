@@ -17,9 +17,6 @@
 
 长期从事互联网，2022 年转入区块链以及 Web3 领域。
 常用语言 Rust，Move。对区块链系统研发以及智能合约编程方向感兴趣。
-参与的开源项目：
-
-* https://github.com/d-jsrsc/jinchan-wallet  
 
 ### 学习日志
 
@@ -47,6 +44,7 @@
 > https://github.com/starcoinorg/dapps/pull/51
 > https://github.com/starcoinorg/starcoin-cookbook/pull/176
 > https://github.com/starcoinorg/starcoin-cookbook/pull/178
+> https://github.com/starcoinorg/dapps/pull/54
 
 
 
