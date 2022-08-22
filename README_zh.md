@@ -103,7 +103,7 @@ Starcoin Web3 星航计划的目标是构建一个学习社区，一起探索 We
 3. 对外的 Move 相关的教程文章 + 1 分, 希望 Move 被更多的人了解，所以鼓励通过其他渠道传播文档教程。
 4. 独立的 Move module + 1 分。希望学习 Move 后可以做出新的模块，而不仅仅是学会教程中的例子。
 
-> 导论毕业标准的详细地址：
+> 讨论毕业标准的详细地址：
 > - [https://github.com/starcoinorg/web3startrek/pull/59](https://github.com/starcoinorg/web3startrek/pull/59)
 > - [https://github.com/starcoinorg/web3startrek/pull/61](https://github.com/starcoinorg/web3startrek/pull/61)
 > - [https://github.com/starcoinorg/web3startrek/pull/54](https://github.com/starcoinorg/web3startrek/pull/54)
