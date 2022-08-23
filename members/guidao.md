@@ -17,10 +17,11 @@
 常用语言 Go，Rust。对区块链系统研发以及智能合约编程方向感兴趣。
 
 ### 学习日志
-
+- 学习 move 语言
+- 学习 dapp 开发
 
 ### 学习成果
-
+- emacs 插件支持 move-lang  [move-mode](https://github.com/guidao/move-mode)
 
 
 
