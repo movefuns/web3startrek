@@ -65,11 +65,13 @@ It is still in the pioneering and initial stage, and many operating rules are st
     * Learn the Move smart contract
     * Learn the implementation of the Move language and the virtual machine
 
-4. Starcoin technical documentation writing
+## Learning Materials
 
-    * Learn the concept of chains and use of node commands
-    * Learn from the [Starcoin Cookbook](https://github.com/starcoinorg/starcoin-cookbook)
-    * Learn how to polish the content of the article so that beginners can learn Starcoin better
+    * [MoveBook](https://move-language.github.io/move/)
+    * [Starcoin Cookbook](https://cookbook.starcoin.org)
+    * [0L Dev Resource](https://0l.network/technology/developer-resources/)
+    * [Aptos Dev](https://aptos.dev/)
+    * [Sui Docs](https://docs.sui.io/build)
 
 ## Register a wallet
 
@@ -85,15 +87,12 @@ When you register your wallet, you can start the Web3 journey. Next, we will int
 
 ## How to participate
 
-1. Join [Starcoin&Move Contributor Telegram Group](https://t.me/starcoin_contributor)
-2. Join [Starcoin Discord](https://discord.gg/starcoin)
+2. Join [MoveFunsDAO Telegram](https://t.me/movefunsdao)
 3. Fork this repository, copy the [members/githubid.md](./members/githubid.md) file as `members/$your_github_id.md`, edit the content according to your own information, and submit a Pull Request to this repository, the registration is successful.
-4. Submit the above PR in the [dev-role-apply](https://discord.com/channels/822159062475997194/980384341181993000) channel of Starcoin Discrod, apply for the `Dev-Leaner` role, and get a voice in Dev-related channels.
-5. Find and connect with a `mentor` based on your learning goals in the mentors directory.
 6. During the learning process, the learning log of the file and the learning results can be continuously updated. If you have problems in the learning process, you can discuss in the group. If you need some practice assignments, but you can't find a suitable one, you can ask your instructor.
 7. If you feel that your learning results can be graduated, you can comment @ Mentor, and after the Mentor has reviewed it, it will be merged into the repository, marking the end of the Learn stage (you can @jolestar before the Mentor system is built). StarTrek DAO gives $STC Token rewards (issued by mentors before StarTrek DAO is established). $STC will go directly to the address filled in the above file.
 8. Considering that there are differences in the spare time of different people, there is no time limit for the overall learning cycle. If you want to end it halfway, you can close the Pull Request directly. Of course, a Pull Request that has been inactive for a long time (more than a month) will also be considered a dropout.
-9. Any suggestions or questions can be submitted to [Discussions · starcoinorg/startrek (github.com)](https://github.com/starcoinorg/startrek/discussions) for discussion.
+9. Any suggestions or questions can be submitted to [MoveFunsDAO Telegram](https://t.me/movefunsdao)(https://github.com/movefuns/web3startrek/discussions) for discussion.
 
 ## Graduation Criteria
 
