@@ -32,11 +32,11 @@ The name StarTrek stands for 'Star Trek' and pays homage to [Star Trek](https://
 
 ## Learning Materials
 
-    * [MoveBook](https://move-language.github.io/move/)
-    * [Starcoin Cookbook](https://cookbook.starcoin.org)
-    * [0L Dev Resource](https://0l.network/technology/developer-resources/)
-    * [Aptos Dev](https://aptos.dev/)
-    * [Sui Docs](https://docs.sui.io/build)
+* [MoveBook](https://move-language.github.io/move/)
+* [Starcoin Cookbook](https://cookbook.starcoin.org)
+* [0L Dev Resource](https://0l.network/technology/developer-resources/)
+* [Aptos Dev](https://aptos.dev/)
+* [Sui Docs](https://docs.sui.io/build)
 
 ## Register a wallet
 
