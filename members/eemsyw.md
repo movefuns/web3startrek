@@ -6,7 +6,7 @@
 
 * Github ID: [eemsyw](https://github.com/eesmwy)
 
-* Telegram ID: [yiwei3](https://t.me/yiwei3)
+* Telegram ID: [Ethan.S](https://t.me/ethans3)
 
 * Discord ID: ethan3#3622
 
