@@ -1,6 +1,6 @@
 # MoveFuns Web3 StarTrek | 星航计划
 
-[中文 README](https://github.com/movefuns/web3startrek/blob/main/README_zh.md)
+English|[中文](https://github.com/movefuns/web3startrek/blob/main/README_zh.md)
 
 ![starterk_web3](https://raw.githubusercontent.com/movefuns/web3startrek/main/cover/starterk_web3.png)
 
@@ -9,41 +9,6 @@
 The goal of the MoveFuns Web3 StarTrek is to build a learning community to explore the Web3 universe together.
 The name StarTrek stands for 'Star Trek' and pays homage to [Star Trek](https://en.wikipedia.org/wiki/Star_Trek).
 
-The source of this idea is that we found that many developers want to learn blockchain and Web3, but this field has a certain learning threshold, which is often difficult to adhere to, and at the same time, there is a large shortage of talents in this field.
-
-So in order to motivate new developers to participate in blockchain and Web3, we try to do a LearnToEarn experiment, where developers can earn while learning.
-After the event was launched, everyone's enthusiasm for participating exceeded expectations, and soon enough developers were recruited for the first phase.
-Therefore, we plan to make it a long-term project, and then we have the StarTrek.
-
-## Economic Model
-
-In the traditional learning method, students pay to schools or training institutions, and there is no reason to **Earn** through learning in turn.
-But at the same time, we can also find that companies need to spend a high cost to select suitable talents and train new employees.
-The inventors of new technologies have to spend a lot of money if they want to promote new technologies in the market.
-If we combine several parties, the **Learning** process is also the process of selecting talents, training employees, or promoting technology, and we can realize **LearnToEarn**, which is especially suitable for open source projects.
-
-## Mode of Operation
-
-It is still in the pioneering and initial stage, and many operating rules are still being explored, which need to be collided with the participants of the first phase. There are currently several challenges:
-
-1. The community's documentation and learning materials are incomplete, and there is a lack of tutors. It is difficult to guide newbies. In the early stage, developers can only rely on self-study and build learning materials together.
-
-2. Are entry rules required to participate in the event? What are the conditions? An admission rule for a simple interview is currently set.
-
-3. What is Earn based on? The initial idea is to calculate a value based on the average learning time of developers in the first phase, which can motivate developers who learn fast.
-
-4. How is the final learning outcome measured? There are currently several ideas:
-
-    * Through learning, you can carry out some formal development tasks, and participate in the development of Starcoin and Starcoin ecological projects full-time or part-time.
-
-    * I have independently developed a DApp (including smart contracts and front-end), or an independent ecological tool application.
-
-## Route Map
-
-1. Through the activities of the first phase, a relatively complete operation method was explored.
-2. Recruit full-time or part-time navigators (instructors) to create a curriculum system.
-3. Set up StarTrek DAO, try to organize and run StarTrek through the on-chain DAO model, and issue soul-bound NFT graduation certificates to graduate members.
-4. Explore patterns for incubating projects in StarTrek.
 
 ## Learning Direction
 
@@ -77,44 +42,74 @@ It is still in the pioneering and initial stage, and many operating rules are st
 
 *Wallet* is the key to the Web3 world. *Wallet* can manage your account information and assets in the chain well.
 
-Before participating in the *StarTrek*, you need to have a Starcoin account.
-You can register an account with your *StarMask wallet* or use the *starcoin* command to generate an account and export a private key. **(Take care of your private key!)**
-
-Generally, the former is the most recommended and friendly way to register the Starcoin account.
-Please refer to [StarMask Introduction](https://starcoinorg.github.io/starcoin-cookbook/docs/getting-started/accounts/use-starmask/) for specific steps.
+* Starcoin
+  Before participating in the *StarTrek*, you need to have a Starcoin account.
+  You can register an account with your *StarMask wallet* or use the *starcoin* command to generate an account and export a private key. **(Take care of your private key!)**
+  Generally, the former is the most recommended and friendly way to register the Starcoin account.
+  Please refer to [StarMask Introduction](https://starcoinorg.github.io/starcoin-cookbook/docs/getting-started/accounts/use-starmask/) for specific steps.
+* 0L (TODO)
+* Aptos (TODO)
+* Sui (TODO)
 
 When you register your wallet, you can start the Web3 journey. Next, we will introduce how to participate.
 
 ## How to participate
 
-2. Join [MoveFunsDAO Telegram](https://t.me/movefunsdao)
-3. Fork this repository, copy the [members/githubid.md](./members/githubid.md) file as `members/$your_github_id.md`, edit the content according to your own information, and submit a Pull Request to this repository, the registration is successful.
-6. During the learning process, the learning log of the file and the learning results can be continuously updated. If you have problems in the learning process, you can discuss in the group. If you need some practice assignments, but you can't find a suitable one, you can ask your instructor.
-7. If you feel that your learning results can be graduated, you can comment @ Mentor, and after the Mentor has reviewed it, it will be merged into the repository, marking the end of the Learn stage (you can @jolestar before the Mentor system is built). StarTrek DAO gives $STC Token rewards (issued by mentors before StarTrek DAO is established). $STC will go directly to the address filled in the above file.
-8. Considering that there are differences in the spare time of different people, there is no time limit for the overall learning cycle. If you want to end it halfway, you can close the Pull Request directly. Of course, a Pull Request that has been inactive for a long time (more than a month) will also be considered a dropout.
-9. Any suggestions or questions can be submitted to [MoveFunsDAO Telegram](https://t.me/movefunsdao)(https://github.com/movefuns/web3startrek/discussions) for discussion.
+1. Join [MoveFunsDAO Telegram](https://t.me/movefunsdao)
+2. Fork this repository, copy the [members/githubid.md](./members/githubid.md) file as `members/$your_github_id.md`, edit the content according to your own information, and submit a Pull Request to this repository, the registration is successful.
+3. During the learning process, the learning log of the file and the learning results can be continuously updated. If you have problems in the learning process, you can discuss in the group. If you need some practice assignments, but you can't find a suitable one, you can ask your instructor.
+4. If you feel that your learning results can be graduated, you can comment @ Mentor, and after the Mentor has reviewed it, it will be merged into the repository, marking the end of the Learn stage. MoveFuns DAO gives Token rewards.
+5. Considering that there are differences in the spare time of different people, there is no time limit for the overall learning cycle. If you want to end it halfway, you can close the Pull Request directly. Of course, a Pull Request that has been inactive for a long time (more than a month) will also be considered a dropout.
+6. Any suggestions or questions can be submitted to [Discussions](https://github.com/movefuns/web3startrek/discussions) for discussion.
 
 ## Graduation Criteria
 
-Graduation standards are met when students earn 3 credits.
-You can `@mentor` to review the graduation status, and at least two mentors need to approve the PR.
-When the PR is merged, it means that you have successfully graduated.
-At this time, you need to `@a mentor who helped you the most in your learning process`.
-You will receive a *graduation award*, and the mentor will also receive a *mentoring award*.
+### Basic requirements
 
-### Ways to Earn Credits
+* Technology needs to involve Move + (Web|Rust|Other Language).
 
-1. The technology needs to involve Move + Web or Move + Rust.
-2. PR contributors to community projects ([starcoinorg](https://github.com/starcoinorg) or [move-language](https://github.com/move-language/move)), 1 PR + 1 point. If there is a complex PR, it can be evaluated by the mentor (mentor) for extra points.
-3. External Move-related tutorial articles + 1 point, I hope that Move will be understood by more people, so I encourage the dissemination of documentation tutorials through other channels.
-4. Standalone Move module + 1 point. I hope that after learning Move, you can make new modules, not just learn the examples in the tutorial.
+### L1 graduation
 
-> Detailed address for the introductory graduation criteria:
-> [https://github.com/starcoinorg/web3startrek/pull/59](https://github.com/starcoinorg/web3startrek/pull/59)
-> [https://github.com/starcoinorg/web3startrek/pull/61](https://github.com/starcoinorg/web3startrek/pull/61)
-> [https://github.com/starcoinorg/web3startrek/pull/54](https://github.com/starcoinorg/web3startrek/pull/54)
+* Proof of Move language mastery through learning logs and practice projects
+* 200$ USDT or STC equivalent will be awarded.
 
-## StarTrekDao
+### L2 Graduation
+
+* Contribute new standalone Move modules to the community
+* Publish Move-related tutorials
+* Contributed PR to the Move eco-projects ([move-language](https://github.com/move-language), [movefuns](https://github.com/movefuns)), mentor will evaluate the complexity of PR
+* Two of the above three items must be satisfied
+* 300$ USDT or STC equivalent
+
+### Additional bonus for eco-projects
+
+* Significant PR contribution to projects under [starcoinorg](https://github.com/starcoinorg): additional $500 USDT or STC equivalent
+* Significant PR contribution to projects under [OLSF](https://github.com/OLSF): (TODO)
+* Significant PR contribution to projects under [aptos-labs](https://github.com/aptos-labs): (TODO)
+* Significant PR contribution to projects under [MystenLabs](https://github.com/MystenLabs): (TODO)
+* Awards from other projects are welcome
+
+When you believe you have met the graduation criteria. You can `@Mentor` to review the graduation status, at least **two** mentors are required to approve the PR, when the PRs are combined it means you successfully graduated and you will receive the *graduation reward*.
+L2 graduates need to `@ a mentor` who has helped you the most during your studies, and this mentor will also receive a *mentoring bonus*.
+
+
+## Economic Model
+
+In the traditional learning method, students pay to schools or training institutions, and there is no reason to **Earn** through learning in turn.
+But at the same time, we can also find that companies need to spend a high cost to select suitable talents and train new employees.
+The inventors of new technologies have to spend a lot of money if they want to promote new technologies in the market.
+If we combine several parties, the **Learning** process is also the process of selecting talents, training employees, or promoting technology, and we can realize **LearnToEarn**, which is especially suitable for open source projects.
+
+
+## Route Map
+
+1. Through the activities of the first phase, a relatively complete operation method was explored.
+2. Recruit full-time or part-time navigators (instructors) to create a curriculum system.
+3. Set up StarTrek DAO, try to organize and run StarTrek through the on-chain DAO model, and issue soul-bound NFT graduation certificates to graduate members.
+4. Explore patterns for incubating projects in StarTrek.
+
+
+## StarTrek Treasury Account
 
 * Address: 0x9d9ab2c2989fdb0ae025f7ddece86088
 
