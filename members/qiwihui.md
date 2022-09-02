@@ -24,15 +24,17 @@
 
 ### 学习日志
 
-> 可以写在这里或者给个外部公开链接
-
 学习日志和学习总结： https://qiwihui.notion.site/Starcoin-Move-f883dd5a9f8641cd9c19f06910fe1995
 
 ### 学习成果
 
-> 提供学习成果证明，可以是对项目贡献的 Pull Request 链接，文档链接，公开的技术文章视频等教程，以及学习过程中制作的独立的 DApp 项目
+提交了以下的 Pull Request。
 
 1. Starcoin-Cookbook 新增和改进文档
 
    - https://github.com/starcoinorg/starcoin-cookbook/pull/156
    - https://github.com/starcoinorg/starcoin-cookbook/pull/157
+
+2. starcoin-framework-commons
+
+   - https://github.com/starcoinorg/starcoin-framework-commons/pull/47
