@@ -38,3 +38,8 @@
 2. starcoin-framework-commons
 
    - https://github.com/starcoinorg/starcoin-framework-commons/pull/47
+
+3. move-language/move
+
+   - https://github.com/move-language/move/issues/368
+
