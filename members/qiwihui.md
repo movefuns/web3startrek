@@ -43,3 +43,8 @@
 
    - https://github.com/move-language/move/issues/368
 
+### 未来学习
+
+1. 参与 Move 生态建设，比如教程，文档；
+2. 稳定币在 Move 的应用。
+
