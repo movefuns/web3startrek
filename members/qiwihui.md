@@ -28,6 +28,10 @@
 
 ### 学习成果
 
+文章：
+
+- [Sui 公链研究整理](https://qiwihui.com/qiwihui-blog-162/) 
+
 提交了以下的 Pull Request。
 
 1. Starcoin-Cookbook 新增和改进文档
