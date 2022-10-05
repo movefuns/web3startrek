@@ -19,15 +19,15 @@
 
 ### 学习日志
 
-https://github.com/nangongamo/move-learning
+个人学习总结：https://github.com/nangongamo/move-learning
 
 ### 学习成果
 
-Move 学习成果示例：https://github.com/nangongamo/move-learning/blob/main/code/memories/
+Move 结合 Starcoin 公链实战：https://github.com/nangongamo/move-learning/blob/main/code/memories/
 
 **期间提交的 PR：**
 
-> 修复cookbook代码块高亮的bug
+> 修复 cookbook 代码块高亮的bug
 - https://github.com/starcoinorg/starcoin-cookbook/pull/188
 
 > 帮忙记录 Move 安装过程中遇到的问题
