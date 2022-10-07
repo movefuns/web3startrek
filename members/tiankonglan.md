@@ -12,19 +12,28 @@
 
 * Starcoin 账号地址: 0x0bFF3Ddf0719Db9077590d1B90Dc1782
 
-Bankend Developer, Architect; Master in Golang、C++、Rust; Interest in chain, contract 
+Bankend Developer, Architect; Master in Golang、C++、Rust; Interest in chain, vm, contract 
 
 ### 参与的开源项目：
+https://github.com/movefuns/movefuns
+https://github.com/starcoinorg/starcoin-framework
+https://github.com/NonceGeek/DID-Solution-In-Move
 
 ## 学习日志
-
+https://mp.weixin.qq.com/s/LBvvz3OffYQysL27MnBw0g
 ## 学习成果
+master move contract code in both starcoin and aptos
+https://github.com/NonceGeek/DID-Solution-In-Move/did
 
 ### 发现的问题&提交的优化建议:
-
+- starcoin's framework add spec256k1_verify 
+- movefuns add ascii string split funciton 
 ### Pull Request:
+- https://github.com/starcoinorg/starcoin-framework/pull/86
+- https://github.com/movefuns/movefuns/pull/52
 
 ### 新项目:
-
+- impl aptos did contract add multi sign type
+https://github.com/NonceGeek/DID-Solution-In-Move/did-aptos
 
 
