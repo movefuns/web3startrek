@@ -23,7 +23,8 @@ https://github.com/NonceGeek/DID-Solution-In-Move
 https://mp.weixin.qq.com/s/LBvvz3OffYQysL27MnBw0g
 ## 学习成果
 master move contract code in both starcoin and aptos
-https://github.com/NonceGeek/DID-Solution-In-Move/did
+https://github.com/NonceGeek/DID-Solution-In-Move/tree/main/did
+https://github.com/NonceGeek/DID-Solution-In-Move/tree/main/did-aptos
 
 ### 发现的问题&提交的优化建议:
 - starcoin's framework add spec256k1_verify 
@@ -34,6 +35,6 @@ https://github.com/NonceGeek/DID-Solution-In-Move/did
 
 ### 新项目:
 - impl aptos did contract add multi sign type
-https://github.com/NonceGeek/DID-Solution-In-Move/did-aptos
+https://github.com/NonceGeek/DID-Solution-In-Move/tree/main/did-aptos
 
 
