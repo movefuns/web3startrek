@@ -7,19 +7,14 @@
 
 ### Personal introduction
 
-* Github ID: [jolestar](https://github.com/jolestar)
-* Telegram ID: jolestar
-* Starcoin 账号地址: 0x8fDfF6d36dFC363055cC3Dde3e7e0013
+* Github ID: [lostpanda1992](https://github.com/lostpanda1992)
+* Telegram ID: Panda_unsw
+* Starcoin 账号地址: 0xdeEC22DdD4cA1CbAF9baa73844e2376F
 
+国内某二线大厂ai算法工程师，QS50新能源工程硕士(UNSW)&中国人民大学企业经济学硕士。算法开发相关工作2.5年，主要领域为图像处理和自然语言处理。工作前后端开发都有涉及但不多，今年八月份确定转入区块链以及web3领域，常用语言为python，熟悉java和go。对区块链系统研发和隐私计算，密码学方面有兴趣。
 
-Long time internet and cloud developer, started to blockchain and Web3 area in 2017.
-Program languages: Java, Go, Rust, Move. 
-Interested in blockchain system development and smart contract programming.
+AI algorithm engineer of quanr.com, master of University of New South Wales new energy engineering & master of business economics of Renmin University of China. 2.5 years working experience in algorithm development, the main fields are image processing and natural language processing. Both front-end and back-end development are involved but not much. In August this year, I decided to transfer to the blockchain and web3 fields. The common language is python, and I am familiar with java and go. . Interested in blockchain system development, privacy computing, and cryptography.
 
-Participated in open source projects:
-
-* https://github.com/jolestar/go-commons-pool  
-* https://github.com/starcoinorg/starcoin
 
 ### Learning log
 
