@@ -19,7 +19,8 @@
 
 ### 学习日志
 
-学习日志和学习总结： https://learnblockchain.cn/people/6025/articles
+学习日志和学习总结：
+[move debug string的几种方法](https://learnblockchain.cn/article/4840)
 
 ### 学习成果
 
@@ -28,9 +29,11 @@
 提交了以下的 Pull Request。
 
 1. move windows支持
-
    - https://github.com/move-language/move/issues/372
-
+2. move tool 【Issue with bounty】Parser ABI in Aptos for a prettier look.
+   - https://github.com/movefuns/movetool/issues/75
+3. [开发工具] 合约 Debug::print 格式转换工具
+   - https://github.com/movefuns/movetool/issues/49 
 
 ### 未来学习
 
