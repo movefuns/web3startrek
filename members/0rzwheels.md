@@ -7,8 +7,8 @@
 
 ### Personal introduction
 
-* Github ID: [jolestar](https://github.com/jolestar)
-* Telegram ID: jolestar
+* Github ID: [0rzwheels](https://github.com/Wheeeeeeeeels)
+* Telegram ID: 0rzwheels
 * Starcoin 账号地址: 0x8fDfF6d36dFC363055cC3Dde3e7e0013
 
 
