@@ -11,14 +11,18 @@
 
 * Starcoin 账号地址: 0x0254ce515102c62648d29e85f282bffc
 
-目前七年开发经验和两年的团队管理经验。
-主要是做后端，语言为java，前端JavaScript会点但是不精。
+主要是做后端，语言为java、JavaScript。
 现阶段主要学习了starcoin和aptos。
 
 ### 学习日志
 
+move总结:https://note.youdao.com/s/RZQ95saY
+
 
 ### 学习成果
+
+move 随笔练习:https://github.com/jzhaopanghu/move_demo
+Move 结合 Aptos 实战:https://github.com/jzhaopanghu/football_demo
 
 
 
