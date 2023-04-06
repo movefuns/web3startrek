@@ -25,7 +25,7 @@ move 随笔练习:https://github.com/jzhaopanghu/move_demo
 
 Move 结合 Aptos 实战(后端):https://github.com/jzhaopanghu/football_demo
 
-Move 结合 Aptos 实战(前端):https://github.com/jzhaopanghu/football_demo
+Move 结合 Aptos 实战(前端):https://github.com/jzhaopanghu/football_dapp
 
 
 
